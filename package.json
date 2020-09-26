@@ -1,0 +1,14 @@
+{
+    "name": "rxjs-simple",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "start": "tsc -p . && node dist/app"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "rxjs": "6.2.2"
+    }
+}
